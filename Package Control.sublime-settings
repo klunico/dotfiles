@@ -16,8 +16,11 @@
 		"Git",
 		"GitGutter",
 		"Package Control",
+		"ProductiveSnippetsERB",
+		"ProductiveSnippetsRuby",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-contrib-sublime-syntax",
 		"SublimeLinter-rubocop"
 	]
 }
